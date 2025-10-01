@@ -1,0 +1,19 @@
+.link {
+  font-weight: 600;
+  text-align: center;
+}
+
+/* Варианты ссылок */
+.primary {
+  color: var(--color-link);
+}
+
+.dark {
+  color: var(--color-link-dark);
+  font-weight: 400; 
+}
+
+.text {
+  color: var(--color-text-primary);
+  font-weight: 600;
+}
